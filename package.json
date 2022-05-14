@@ -1,6 +1,6 @@
 {
   "name": "react-date-time-formatter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple libray for get actual date and time in a relation to a formal date, this is librrary is useful in When Message app, notifications and Chat center app. It provides you with the time the diffirence to the bearest seconds",
   "author": "samuel-momoh",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^17.0.1"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",

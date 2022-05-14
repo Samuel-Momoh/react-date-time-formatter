@@ -314,7 +314,7 @@ export const  FormatHours = (props) =>{
                     <span> 
             <FormatHours > {passDate} </FormatHours>
                     {seperator}
-            <FormatMunites > {passDate} </FormatMunites>
+            <FormatMinutes > {passDate} </FormatMinutes>
                     
                     {seperator}
             <FormatSeconds> {passDate} </FormatSeconds>       
